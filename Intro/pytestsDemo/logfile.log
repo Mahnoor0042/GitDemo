@@ -1,0 +1,23 @@
+2020-07-27 05:34:22,848 : INFO : pytestsDemo.test_logging :Information statement
+2020-07-27 05:34:22,848 : WARNING : pytestsDemo.test_logging :Something is in warning mode
+2020-07-27 05:34:22,848 : ERROR : pytestsDemo.test_logging :A major error has happened
+2020-07-27 05:34:22,848 : CRITICAL : pytestsDemo.test_logging :There is critical issue
+2020-07-27 05:49:41,799 : INFO : pytestsDemo.baseClass :mahnoor Ismial
+2020-07-27 05:50:01,325 : INFO : pytestsDemo.baseClass :mahnoor Ismial
+2020-07-27 05:50:01,325 : INFO : pytestsDemo.baseClass :mahnoorismail8@gmail.com
+2020-07-27 05:53:34,062 : INFO : pytestsDemo.baseClass :mahnoor Ismial
+2020-07-27 05:53:34,062 : INFO : pytestsDemo.baseClass :mahnoorismail8@gmail.com
+2020-07-27 05:54:10,183 : INFO : test_editProfile :mahnoor Ismial
+2020-07-27 05:54:10,183 : INFO : test_editProfile :mahnoorismail8@gmail.com
+2020-07-27 05:58:53,289 : INFO : test_editProfile :mahnoor Ismial
+2020-07-27 05:58:53,289 : INFO : test_editProfile :mahnoorismail8@gmail.com
+2020-07-27 05:58:53,289 : INFO : pytestsDemo.test_logging :Information statement
+2020-07-27 05:58:53,289 : WARNING : pytestsDemo.test_logging :Something is in warning mode
+2020-07-27 05:58:53,289 : ERROR : pytestsDemo.test_logging :A major error has happened
+2020-07-27 05:58:53,289 : CRITICAL : pytestsDemo.test_logging :There is critical issue
+2020-07-27 22:29:08,811 : INFO : test_editProfile :mahnoor Ismial
+2020-07-27 22:29:08,840 : INFO : test_editProfile :mahnoorismail8@gmail.com
+2020-07-27 22:29:08,844 : INFO : pytestsDemo.test_logging :Information statement
+2020-07-27 22:29:08,845 : WARNING : pytestsDemo.test_logging :Something is in warning mode
+2020-07-27 22:29:08,845 : ERROR : pytestsDemo.test_logging :A major error has happened
+2020-07-27 22:29:08,845 : CRITICAL : pytestsDemo.test_logging :There is critical issue

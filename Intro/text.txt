@@ -1,0 +1,9 @@
+dog
+cat
+apple
+ball
+cat
+dog
+fisheagle
+
+
